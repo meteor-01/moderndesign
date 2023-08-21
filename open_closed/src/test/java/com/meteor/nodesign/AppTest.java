@@ -1,7 +1,7 @@
-package com.meteor.design;
+package com.meteor.nodesign;
 
 
-import com.meteor.design.impl.CalculationImpl;
+import com.meteor.nodesign.impl.CalculationImpl;
 import org.junit.Test;
 
 /*

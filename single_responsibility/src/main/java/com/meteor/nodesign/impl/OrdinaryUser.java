@@ -1,6 +1,6 @@
-package com.meteor.design.impl;
+package com.meteor.nodesign.impl;
 
-import com.meteor.design.IUser;
+import com.meteor.nodesign.IUser;
 
 /*
 * @author meteor_01

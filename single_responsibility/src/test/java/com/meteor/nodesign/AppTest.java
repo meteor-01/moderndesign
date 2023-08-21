@@ -1,9 +1,9 @@
-package com.meteor.design;
+package com.meteor.nodesign;
 
-import com.meteor.design.impl.BlackcardUser;
-import com.meteor.design.impl.OrdinaryUser;
-import com.meteor.design.impl.VIPUser;
-import com.meteor.nodesign.Shop;
+import com.meteor.nodesign.impl.BlackcardUser;
+import com.meteor.nodesign.impl.OrdinaryUser;
+import com.meteor.nodesign.impl.VIPUser;
+import com.meteor.design.Shop;
 import org.junit.Test;
 
 /*

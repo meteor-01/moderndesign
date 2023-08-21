@@ -1,6 +1,6 @@
-package com.meteor.design.impl;
+package com.meteor.nodesign.impl;
 
-import com.meteor.design.ICalculation;
+import com.meteor.nodesign.ICalculation;
 
 /*
 * @author meteor_01
