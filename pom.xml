@@ -11,6 +11,7 @@
         <module>liskov_substitution</module>
         <module>demeter_law</module>
         <module>interface_segregation</module>
+        <module>dependence_inversion</module>
     </modules>
     <packaging>pom</packaging>
 
