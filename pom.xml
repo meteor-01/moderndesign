@@ -10,6 +10,7 @@
       <module>open_closed</module>
         <module>liskov_substitution</module>
         <module>demeter_law</module>
+        <module>interface_segregation</module>
     </modules>
     <packaging>pom</packaging>
 
