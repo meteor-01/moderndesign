@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/demeter_law/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dependence_inversion/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dependence_inversion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interface_segregation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interface_segregation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/liskov_substitution/src/main/java" charset="UTF-8" />

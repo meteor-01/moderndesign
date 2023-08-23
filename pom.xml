@@ -12,6 +12,7 @@
         <module>demeter_law</module>
         <module>interface_segregation</module>
         <module>dependence_inversion</module>
+        <module>factory_method</module>
     </modules>
     <packaging>pom</packaging>
 
