@@ -13,6 +13,7 @@
         <module>interface_segregation</module>
         <module>dependence_inversion</module>
         <module>factory_method</module>
+        <module>abstract_factory</module>
     </modules>
     <packaging>pom</packaging>
 
