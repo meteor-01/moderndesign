@@ -17,8 +17,14 @@
     <file url="file://$PROJECT_DIR$/liskov_substitution/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/open_closed/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/open_closed/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peoxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/peoxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/single_responsibility/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/single_responsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
